@@ -1,0 +1,2 @@
+# Data-Wrangling-Project-on-WeRateDogs
+In this project, we gathered three related datasets on Dog rating according to WeRateDogs tweets. They include an archived WeRateDogs tweets in csv format, image prediction carried out on the archive dataset in tsv format and tweeter API json data querried with the tweets IDs using tweepy. we accessed, cleaned and merged the data we gathered in order to gain insights from them.
